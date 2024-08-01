@@ -1,2 +1,31 @@
-# collection of various pokemons by devansh
- Pokémon Collection:  Welcome to the Pokémon Collection repository! This project is a web-based collection of various Pokémon, featuring detailed information and images. Whether you're a Pokémon fan or just starting your journey, this collection aims to provide an engaging and informative experience.  ### Features  - **View a List of Pokémon**: Browse through a wide variety of Pokémon. - **Detailed Pokémon Information**: Each Pokémon card includes an image and name. - **Responsive Design**: The site is designed to work well on both mobile and desktop devices. 
+# Pokémon Collection
+
+A web-based collection of various Pokémon with detailed information and images.
+
+## Features
+
+- View a list of Pokémon
+- See detailed information for each Pokémon
+- Responsive design for mobile and desktop
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## How to Run
+
+1. Clone the repository:
+    ```
+    git clone https://github.com/RDevansh/pokemon-collection.git
+    ```
+2. Open `index.html` in your web browser.
+
+## Contribution
+
+Feel free to fork the repository and submit pull requests.
+
+## License
+
+This project is licensed under the MIT License.
